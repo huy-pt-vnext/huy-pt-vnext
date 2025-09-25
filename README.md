@@ -11,4 +11,8 @@
 - 📚 I'm currently learning english <img src="https://cdn-icons-png.flaticon.com/128/197/197484.png" width="17" />
 
 
+## 📈 GitHub Stats
+![Huy's GitHub stats](https://github-readme-stats.vercel.app/api?username=huy-pt-vnext&show_icons=true&theme=radical)
+
+
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
