@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there, I'm Huy 👋
 
-<!--
-**huy-pt-vnext/huy-pt-vnext** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=17&duration=1200&color=F75C7E&lines=Software+Developer;;Always+Learning+New+Things)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+<img width="1385" height="661" alt="image" src="./image.png" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## 🚀 About Me
+- 💻 Fun fact: I debug faster with ☕ coffee  
+- 📚 I'm currently learning english <img src="https://cdn-icons-png.flaticon.com/128/197/197484.png" width="17" />
+
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
