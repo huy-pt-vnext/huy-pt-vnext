@@ -15,7 +15,3 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-
-
-## 📈 GitHub Stats
-![Huy's GitHub stats](https://github-readme-stats.vercel.app/api?username=huy-pt-vnext&show_icons=true&theme=radical)
